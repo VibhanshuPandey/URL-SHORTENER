@@ -39,10 +39,10 @@ The application will be running at http://localhost:5000.
 
 # Dependencies
 
-- express: ^4.19.2
-- ejs: ^3.1.10
-- mongoose: ^8.3.2
-- shortid: ^2.2.16
+- express: 4.19.2
+- ejs: 3.1.10
+- mongoose: 8.3.2
+- shortid: 2.2.16
 
 # Dev Dependencies
 
