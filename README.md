@@ -46,7 +46,7 @@ The application will be running at http://localhost:5000.
 
 # Dev Dependencies
 
-- nodemon: ^3.1.0
+- nodemon: 3.1.0
 
 3. Make sure you have MongoDB installed and running on your machine.
 
