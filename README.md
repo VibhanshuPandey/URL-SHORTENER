@@ -2,6 +2,7 @@
 
 A simple URL shortener application built with Node.js, Express, MongoDB, and EJS.
 
+
 ## Description
 
 This application allows users to shorten long URLs into shorter, more manageable links. It uses MongoDB to store the original URLs along with their shortened counterparts. The application also keeps track of the number of clicks each shortened URL receives.
